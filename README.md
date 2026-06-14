@@ -49,8 +49,4 @@ Through this project, I learned:
 Computer Engineering Student  
 Full Stack Development Intern
 
-## 🔗 GitHub Repository
-Add your repository link here after uploading.
 
-## 📷 Preview
-Add screenshots of the website here.
